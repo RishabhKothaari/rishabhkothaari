@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there 👋, I'm Rishab</h1>
+<h1 align="center">Hi there 👋, I'm Rishabh</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishabhKothaari" alt="rishabhkothaari" /> </p>
 <p align="left"> 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Building Scalable Intelligent Applications**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/rishabhkothaari](https://www.github.com/RishabhKothaari)
+- 👨‍💻 All of my projects are available at [https://www.github.com/RishabhKothaari](https://www.github.com/RishabhKothaari)
 
 - 💬 Ask me about **Building & Designing Components on Back End & Front End**
 
