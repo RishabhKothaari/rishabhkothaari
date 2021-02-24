@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishabhKothaari" alt="rishabhkothaari" /> </p>
 <p align="left"> 
-  <a href="https://linkedin.com/in/rishabhkothaari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishab-pdx" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/rishabhkothaari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RishabhKothaari" height="20" width="20" /></a>
 </p>
 
 - 🔭 I’m currently working on **Self Paced Learning App and Contributing to Open Source Projects**
