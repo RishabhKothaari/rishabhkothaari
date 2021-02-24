@@ -1,6 +1,6 @@
 <!--
 ### Hi there 👋
-**rishab-pdx/rishab-pdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RishabhKothaari/rishabhkothaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Rishab</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishab-pdx" alt="rishab-pdx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RishabhKothaari" alt="rishabhkothaari" /> </p>
 <p align="left"> 
-  <a href="https://linkedin.com/in/rishab-pdx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishab-pdx" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/rishabhkothaari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishab-pdx" height="20" width="20" /></a>
 </p>
 
 - 🔭 I’m currently working on **Self Paced Learning App and Contributing to Open Source Projects**
 
 - 👯 I’m looking to collaborate on **Building Scalable Intelligent Applications**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/rishab-pdx](https://www.github.com/rishab-pdx)
+- 👨‍💻 All of my projects are available at [https://www.github.com/rishabhkothaari](https://www.github.com/RishabhKothaari)
 
 - 💬 Ask me about **Building & Designing Components on Back End & Front End**
 
